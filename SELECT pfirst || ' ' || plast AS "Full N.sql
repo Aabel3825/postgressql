@@ -1,0 +1,1 @@
+SELECT pfirst || ' ' || plast AS "Full Name" FROM people ORDER BY plast ASC;
