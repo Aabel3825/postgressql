@@ -1,1 +1,0 @@
-SELECT pfirst as "First Name" FROM people
